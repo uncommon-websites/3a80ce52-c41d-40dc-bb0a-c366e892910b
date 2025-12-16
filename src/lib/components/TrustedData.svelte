@@ -1,26 +1,26 @@
 <script>
     const partners = [
-        { name: "Your Firm's Data", icon: "🏢" },
-        { name: "LSEG", icon: "🔵", color: "bg-blue-600" },
-        { name: "Dow Jones", icon: "D", color: "bg-blue-400" },
-        { name: "FactSet", icon: "F", color: "bg-blue-800" },
-        { name: "Capital IQ", icon: "S", color: "bg-red-600" },
-        { name: "PitchBook", icon: "P", color: "bg-blue-900" },
-        { name: "Preqin", icon: "P", color: "bg-purple-900" },
-        { name: "Real-time Web & News", icon: "🌐" },
-        { name: "SEC Filings", icon: "🏛️" },
-        { name: "Transcripts", icon: "📞" },
-        { name: "Investor Presentations", icon: "📊" },
-        { name: "International Filings", icon: "🌍" }
+        { name: "NetSuite ERP", icon: "N", color: "bg-blue-600" },
+        { name: "SAP", icon: "S", color: "bg-blue-500" },
+        { name: "Oracle", icon: "O", color: "bg-red-600" },
+        { name: "Microsoft Dynamics", icon: "M", color: "bg-blue-700" },
+        { name: "Salesforce", icon: "SF", color: "bg-blue-400" },
+        { name: "Shopify", icon: "🛒", color: "bg-green-600" },
+        { name: "WMS Systems", icon: "📦" },
+        { name: "EDI Networks", icon: "🔄" },
+        { name: "Supplier Portals", icon: "🏭" },
+        { name: "Logistics APIs", icon: "🚚" },
+        { name: "Market Data", icon: "📊" },
+        { name: "Your Custom Systems", icon: "⚙️" }
     ];
 </script>
 
 <section class="py-24 bg-white">
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="mb-16 max-w-2xl">
-            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Trusted Data</h2>
+            <h2 class="text-3xl md:text-4xl font-serif text-gray-900 mb-6">Seamless Integrations</h2>
             <p class="text-sm text-gray-500 leading-relaxed">
-                We partner with trusted data providers to bring the highest-quality financial information to our platform. Their expertise, combined with Rogo's technology, gives customers the clarity and confidence they need to move fast.
+                Emerix connects directly to your ERP and supply chain systems, executing workflows where your data lives. Our AI agents work within NetSuite and other platforms to automate operations without disrupting your existing processes.
             </p>
         </div>
 
